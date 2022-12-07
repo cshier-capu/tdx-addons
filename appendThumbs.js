@@ -7,7 +7,7 @@
 // @match        https://service.capilanou.ca/TDNext/Apps/72/Tickets/TicketDet?TicketID=*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=capilanou.ca
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/cshier-capu/tdx-addons/main/appendThumbs.js
+// @downloadURL  https://github.com/cshier-capu/tdx-addons/raw/main/appendThumbs.js
 // ==/UserScript==
 (function() {
     'use strict';
