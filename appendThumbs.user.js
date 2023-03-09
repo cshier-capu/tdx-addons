@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Add thumbnails
 // @namespace    https://service.capilanou.ca/
-// @version      0.3.2
+// @version      0.3.3
 // @description  Adds images next to View links in Attachment panel
 // @author       Chris Shier
 // @match        https://service.capilanou.ca/TDNext/Apps/*
