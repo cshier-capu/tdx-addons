@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Add thumbnails
 // @namespace    https://service.capilanou.ca/
-// @version      0.3.4
+// @version      0.3.5
 // @description  Adds images next to View links in Attachment panel
 // @author       Chris Shier
 // @match        https://service.capilanou.ca/TDNext/Apps/*
@@ -9,7 +9,7 @@
 // @grant        none
 // @updateURL    https://github.com/cshier-capu/tdx-addons/raw/main/appendThumbs.user.js
 // @downloadURL  https://github.com/cshier-capu/tdx-addons/raw/main/appendThumbs.user.js
-// @run-at       document-start
+// @run-at       document-end
 // ==/UserScript==
 (function() {
     'use strict';
