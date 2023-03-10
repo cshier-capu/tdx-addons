@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Add thumbnails
 // @namespace    https://service.capilanou.ca/
-// @version      0.3.5
+// @version      0.3.6
 // @description  Adds images next to View links in Attachment panel
 // @author       Chris Shier
-// @match        https://service.capilanou.ca/TDNext/Apps/*
+// @match        https://*/TDNext/Apps/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=capilanou.ca
 // @grant        none
 // @updateURL    https://github.com/cshier-capu/tdx-addons/raw/main/appendThumbs.user.js
